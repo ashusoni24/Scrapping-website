@@ -13,3 +13,9 @@ Dependencies:
  1. axios: For making HTTP requests.
  2. qs: For formatting query strings.
  3. cheerio: For parsing HTML responses.
+
+Eg. Snippet : 
+
+   <img width="638" alt="Screenshot 2024-06-13 at 1 15 03 AM" src="https://github.com/ashusoni24/Scrapping-website/assets/147245967/c94b48e2-66ff-49b7-a2f4-8ce606696fda">
+
+    
